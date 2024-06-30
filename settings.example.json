@@ -1,0 +1,14 @@
+{
+    "trello": {
+        "url": "https://api.trello.com/1/cards",
+        "key": "[your key]",
+        "token": "[your token]",
+        "idList": "[your list id - you can get it as idList from 'a card from your list' json export]"
+    },
+    "bienici": {
+        "url": "[your bienici url with criteria]"
+    },
+    "pap": {
+        "url": "[your pap url with criteria]"
+    }
+}
